@@ -66,15 +66,6 @@ Voici les technologies que je maîtrise et avec lesquelles je travaille réguli�
 
 ---
 
-### Mes statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyaary29&show_icons=true&locale=fr&theme=react&hide_title=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyaary29&layout=compact&langs_count=6&theme=react" alt="Langages les plus utilisés" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyaary29&theme=react&hide_title=true" alt="Statistiques de série de contributions" />
-</div>
-
----
 
 ### Comment me contacter ?
 
