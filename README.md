@@ -68,8 +68,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=NyAary29&show_icons=true&theme=tokyonight" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyAary29&layout=compact&theme=tokyonight" height="160" />
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=NyAary29E&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=NyAary29&theme=tokyonight" />
 
 </div>
 
