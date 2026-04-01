@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Salut 👋, je suis Manana NyAary !</h1>
-  <h3>Développeur Full-Stack | Spécialiste en IA & Big Data | Passionné de DevOps</h3>
+  <h3>Développeur Full-Stack | Passionné de DevOps</h3>
 </div>
 
 ---
